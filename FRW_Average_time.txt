@@ -1,0 +1,2 @@
+Average time taken for a thread to gain entry to the Critical Section for Writer threads: 870460.370000
+Average time taken for a thread to gain entry to the Critical Section for Reader threads: 796604.415000
